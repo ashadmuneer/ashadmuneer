@@ -1,4 +1,4 @@
-![Ashad's GitHub Banner](AshadMuneer.jpg)
+![Ashad's GitHub Banner](AshadMuneer.png)
 
 
 Hey there 👋
