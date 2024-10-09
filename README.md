@@ -4,7 +4,7 @@
 Hey there 👋
 
 
-Welcome to my GitHub. I'm an aspiring Developer and Open Source Contributor, who loves computer programming and interacting with the people of similar interest.
+Welcome to my GitHub account. I am in the fields of Frontend Web Developer, Software Engineer, and Designer, and I enjoy the challenge of figuring out complex issues and coming up with elegant yet useful solutions.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashadmuneer&label=Profile%20views&color=0e75b6&style=flat" alt="ashadmuneer" /> </p>
 <h1>
 <strong>Holopin Badge Board</strong>
@@ -29,8 +29,7 @@ Welcome to my GitHub. I'm an aspiring Developer and Open Source Contributor, who
 <br>
 
 ## Languages and Tools I Use:
-
-[<img align="left" alt="Node.js" width="26px" src="https://nodejs.org/static/images/favicons/favicon-32x32.png" />](https://nodejs.org)
+[<img align="left" alt="C++" width="26px" src="https://isocpp.org/assets/images/cpp_logo.png" />](https://isocpp.org) 
 [<img align="left" alt="Python" width="26px" src="https://www.python.org/static/favicon.ico" />](https://python.org) 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://developer.mozilla.org/en/docs/Web/HTML)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://developer.mozilla.org/en/docs/Web/CSS)
@@ -40,6 +39,7 @@ Welcome to my GitHub. I'm an aspiring Developer and Open Source Contributor, who
 [<img align="left" alt="React" width="26px" src="https://reactjs.org/favicon.ico" />](https://reactjs.org/)
 [<img align="left" alt="Git" width="26px" src="https://git-scm.com/favicon.ico" />](https://git-scm.com/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://code.visualstudio.com/favicon.ico" />](https://code.visualstudio.com/)
+
 <br />
 <br>
 
