@@ -1,16 +1,21 @@
 ![Ashad's GitHub Banner](AshadMuneer.png)
+# Hi there, I'm Ashad Muneer 👋
 
+## 🚀 About Me
+I am a passionate **Frontend Developer** and **UI/UX Designer** with a strong foundation in web development. I am currently pursuing my **B.Tech in Computer Science and Engineering** at ABES Engineering College. I love creating responsive, user-friendly web applications and working on open-source projects.
 
-Hey there 👋
+### 💻 Technologies & Tools:
+- **Languages**: HTML, CSS, JavaScript, C/C++, MySQL
+- **Frameworks & Libraries**: React.js, Node.js, Tailwind CSS, Bootstrap, Redux
+- **Tools & Platforms**: Git, GitHub, Firebase, AWS, Postman, Mapbox, Figma, Adobe XD
+- **Database**: MongoDB, MySQL
+- **Version Control**: Git, GitHub Actions
+- **OS**: Linux, Windows
 
-
-Welcome to my GitHub account. I am in the fields of Frontend Web Developer, Software Engineer, and Designer, and I enjoy the challenge of figuring out complex issues and coming up with elegant yet useful solutions.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashadmuneer&label=Profile%20views&color=0e75b6&style=flat" alt="ashadmuneer" /> </p>
-<h1>
-<strong>Holopin Badge Board</strong>
-  </h1>
-<br>
-<br>
+## 🌱 What I'm Learning
+- **Advanced React.js** for building dynamic, interactive UIs.
+- **UI/UX Design** for creating intuitive and seamless user experiences.
+## 🔰 Holopin Badge Board
 <a href="https://holopin.io/@ashadmuneer">
   <img
     src="https://holopin.me/ashadmuneer"
@@ -19,30 +24,25 @@ Welcome to my GitHub account. I am in the fields of Frontend Web Developer, Soft
   />
 </a>
 
-## ⚙️ &nbsp;GitHub Analytics
-<p align = "center">
+## 📈 GitHub Stats
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ashadmuneer&theme=dracula&show_icons=true" alt="maemreyo" width="400" />
-<img src="http://github-readme-streak-stats.herokuapp.com?user=ashadmuneer&theme=dracula&hide_border=false" alt="maemreyo" width="400" />
-</p>
+<div align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ashadmuneer&show_icons=true&hide=prs&count_private=true&theme=radical&width=400&height=400" alt="Ashad's GitHub Stats" />
+  <!-- GitHub Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashadmuneer&layout=compact&theme=radical" alt="GitHub Contributions" />
+   <!-- GitHub Streak -->
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=ashadmuneer&theme=dracula&hide_border=false" alt="Ashad's GitHub Streak" />
 </div>
-<br>
 
-## Languages and Tools I Use:
-[<img align="left" alt="C++" width="26px" src="https://isocpp.org/assets/images/cpp_logo.png" />](https://isocpp.org) 
-[<img align="left" alt="Python" width="26px" src="https://www.python.org/static/favicon.ico" />](https://python.org) 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://developer.mozilla.org/en/docs/Web/HTML)
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://developer.mozilla.org/en/docs/Web/CSS)
-[<img align="left" alt="TailwindCSS" width="26px" src="https://tailwindcss.com/favicons/favicon-32x32.png?v=3" />](https://tailwindcss.com/)
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://developer.mozilla.org/en/docs/Web/JavaScript)
-<!-- [<img align="left" alt="Typescript" width="26px" src="https://www.typescriptlang.org/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae" />](https://typescriptlang.org) -->
-[<img align="left" alt="React" width="26px" src="https://reactjs.org/favicon.ico" />](https://reactjs.org/)
-[<img align="left" alt="Git" width="26px" src="https://git-scm.com/favicon.ico" />](https://git-scm.com/)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://code.visualstudio.com/favicon.ico" />](https://code.visualstudio.com/)
+## 📝 Featured Projects:
+- **[Pop Crat](https://github.com/ashadmuneer/PopCrat)** - Fashion e-commerce platform built with React.js, Node.js, Express.js, MongoDB, and PayPal integration for payment handling.
+- **[ChitChat](https://github.com/ashadmuneer/ChitChat)** - Real-time chat application using React.js and Firebase, with features like media sharing and real-time notifications.
+- **[Vajra](https://github.com/ashadmuneer/Vajra)** - Interactive medical emergency solutions platform built with React.js, offering quick access to emergency services.
 
-<br />
-<br>
+## 💬 Let's Connect:
+- [LinkedIn](https://www.linkedin.com/in/ashad-muneer)
+- [Email](mailto:ashadmuneerofficial@gmail.com)
+- [Personal Website](https://ashadmuneer.netlify.app)
 
----
-<br>
-
+Feel free to reach out if you're interested in collaborating or just want to chat about tech!
