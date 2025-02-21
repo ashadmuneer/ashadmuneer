@@ -1,10 +1,10 @@
 ![Ashad's GitHub Banner](AshadMuneer.png)
 # Hi there, I'm Ashad Muneer 👋
 
-## 🚀 About Me
+### 🚀 About Me
 I am a passionate **Frontend Developer** and **UI/UX Designer** with a strong foundation in web development. I am currently pursuing my **B.Tech in Computer Science and Engineering** at ABES Engineering College. I love creating responsive, user-friendly web applications and working on open-source projects.
 
-### 💻 Technologies & Tools:
+### 💻 Things I code with:
 <table ><tr ><td valign="top" width="33%">
 
 
@@ -45,11 +45,8 @@ I am a passionate **Frontend Developer** and **UI/UX Designer** with a strong fo
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 </td></tr></table>  
-<br/>
-## 🌱 What I'm Learning
-- **Advanced React.js** for building dynamic, interactive UIs.
-- **UI/UX Design** for creating intuitive and seamless user experiences.
-## 🔰 Holopin Badge Board
+
+### 🔰 Holopin Badge Board
 <a href="https://holopin.io/@ashadmuneer">
   <img
     src="https://holopin.me/ashadmuneer"
@@ -58,7 +55,11 @@ I am a passionate **Frontend Developer** and **UI/UX Designer** with a strong fo
   />
 </a>
 
-## 📈 GitHub Stats
+### 🌐 Profile Visits
+
+![Visitor Count](https://profile-counter.glitch.me/ashadmuneer/count.svg)
+
+### 📈 GitHub Stats
 
 <div align="center">
   <!-- GitHub Stats Card -->
@@ -69,12 +70,12 @@ I am a passionate **Frontend Developer** and **UI/UX Designer** with a strong fo
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ashadmuneer&theme=dracula&hide_border=false" alt="Ashad's GitHub Streak" />
 </div>
 
-## 📝 Featured Projects:
+### 📝 Featured Projects:
 - **[Pop Crat](https://github.com/ashadmuneer/PopCrat)** - Fashion e-commerce platform built with React.js, Node.js, Express.js, MongoDB, and PayPal integration for payment handling.
 - **[ChitChat](https://github.com/ashadmuneer/ChitChat)** - Real-time chat application using React.js and Firebase, with features like media sharing and real-time notifications.
 - **[Vajra](https://github.com/ashadmuneer/Vajra)** - Interactive medical emergency solutions platform built with React.js, offering quick access to emergency services.
 
-## 💬 Let's Connect:
+### 💬 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/ashad-muneer)
 - [Email](mailto:ashadmuneerofficial@gmail.com)
 - [Personal Website](https://ashadmuneer.netlify.app)
