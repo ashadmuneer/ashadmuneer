@@ -44,20 +44,7 @@ I am a passionate **Frontend Developer** and **UI/UX Designer** with a strong fo
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a> 
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
-</td></tr></table>  
-
-### 🔰 Holopin Badge Board
-<a href="https://holopin.io/@ashadmuneer">
-  <img
-    src="https://holopin.me/ashadmuneer"
-    alt="@ashadmuneer's Holopin board"
-    class="rounded-xl cursor-pointer grayscale-50 hover:grayscale-0 transform-gpu duration-200"
-  />
-</a>
-
-### 🌐 Profile Visits
-
-![Visitor Count](https://profile-counter.glitch.me/ashadmuneer/count.svg)
+</td></tr></table> 
 
 ### 📈 GitHub Stats
 
@@ -70,10 +57,19 @@ I am a passionate **Frontend Developer** and **UI/UX Designer** with a strong fo
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ashadmuneer&theme=dracula&hide_border=false" alt="Ashad's GitHub Streak" />
 </div>
 
-### 📝 Featured Projects:
-- **[Pop Crat](https://github.com/ashadmuneer/PopCrat)** - Fashion e-commerce platform built with React.js, Node.js, Express.js, MongoDB, and PayPal integration for payment handling.
-- **[ChitChat](https://github.com/ashadmuneer/ChitChat)** - Real-time chat application using React.js and Firebase, with features like media sharing and real-time notifications.
-- **[Vajra](https://github.com/ashadmuneer/Vajra)** - Interactive medical emergency solutions platform built with React.js, offering quick access to emergency services.
+### 🌐 Profile Visits
+
+![Visitor Count](https://profile-counter.glitch.me/ashadmuneer/count.svg)
+
+### 🔰 Holopin Badge Board
+<a href="https://holopin.io/@ashadmuneer">
+  <img
+    src="https://holopin.me/ashadmuneer"
+    alt="@ashadmuneer's Holopin board"
+    class="rounded-xl cursor-pointer grayscale-50 hover:grayscale-0 transform-gpu duration-200"
+  />
+</a>
+
 
 ### 💬 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/ashad-muneer)
